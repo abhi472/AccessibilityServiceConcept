@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="4525359561211" >
+
+    <task
+        name="javac"
+        duration="53" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="9" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/abhishek/AndroidStudioProjects/AccessibilityServiceConcept/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build timestamp="4329286332145" >
+        <artifact
+            location="/home/abhishek/AndroidStudioProjects/AccessibilityServiceConcept/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="4525359561211" >
+        <artifact
+            location="/home/abhishek/AndroidStudioProjects/AccessibilityServiceConcept/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
